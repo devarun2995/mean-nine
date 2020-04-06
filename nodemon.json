@@ -1,0 +1,6 @@
+{
+  "env":{
+    "MONGO_ATLAS_PW": "lInbaHoGplAJc4pO",
+    "JWT_KEY": "Secret_key_for_transmission_longer"
+  }
+}
