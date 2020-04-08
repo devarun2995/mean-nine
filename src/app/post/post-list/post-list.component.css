@@ -6,8 +6,7 @@
   text-align: center;
 }
 .post-image{
-  width: 500px;
-  height: 300px;
+  margin: auto;
 }
 
 .post-image img{
@@ -17,4 +16,7 @@
 }
 mat-spinner{
   margin: auto;
+}
+mat-paginator{
+  margin-top: 10px;
 }
